@@ -1,0 +1,31 @@
+생활코딩
+
+<p>		문단 나누기 </p>
+<strong>		진한글씩 </strong>
+<u> 		밑줄 </u>
+<br> 		줄나눔
+<img src="들어갈파일.jpg" width="너비">
+<h1>		헤드라인 <h1>   1~4
+
+<head>		맨위 </head>
+	<title>			페이지이름 </title>
+	<meta charset="utf-8">	글자타입-> 깨짐 방지
+<body>		중간 </body>
+	<ol>	ordered list, 리스트&숫자부여, 부모태그 </ol>
+		<li> list, ol의 자식태그 </li>
+	<a href="https://등등" target="_blank" title="html5 speicification">	링크 </a>
+		참조할 주소     새창, 새탭       새창 이름
+
+
+맨위
+<!doctype html>
+<html>	</html>
+
+
+
+CSS
+
+<style>	a {
+	color:red;
+	}
+</style>			CSS의 전반적인 문법 -> 페이지 전체의 속성을 변경
